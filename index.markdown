@@ -4,7 +4,6 @@
 
 layout: single
 image: /assets/images/nala_sticker.png
-
 ---
 ![Nala]({{ page.image | relative_url }})
 

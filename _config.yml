@@ -30,6 +30,8 @@ url: "https://inshaal93.github.io" # the base hostname & protocol for your site,
 # Build settings
 theme: minima
 # theme: jekyll-theme-lanyon
+minima: 
+  skin: solarized
 
 # Exclude from processing.
 # The following items will not be processed, by default.
